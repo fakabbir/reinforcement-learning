@@ -135,7 +135,7 @@ Its not a Temporal Diffrene Method (TD) so the rewards are stored and the policy
 
 ### A2C
 
-To imporve the performacne we update the policy at each step (TD approach), but to calculate the reward we use a diffrent network.
+To imporve the performance we update the policy at each step (TD approach), but to calculate the reward we use a diffrent network.
 
 ### A3C
 
